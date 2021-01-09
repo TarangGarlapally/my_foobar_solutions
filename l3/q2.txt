@@ -1,0 +1,6 @@
+Q) find path in a binary maze with a possibility of converting one 1 to 0, 0's are passable, 1's are walls.
+
+Sols:
+tried using
+BFS modified
+A* modified-Accepted

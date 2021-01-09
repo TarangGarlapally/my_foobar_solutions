@@ -1,3 +1,5 @@
+# learned about maximum corridor problem
+
 #ford fulkerson algorithm
 def minSteps(path, s, n):
     pred = [-1 for i in range(n)]
